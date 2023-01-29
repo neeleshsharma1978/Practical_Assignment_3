@@ -1,4 +1,4 @@
-# Practical_Assiggment_3
+# Practical_Application_3
 
 # Overview:
 In this practical application,The goal is to compare the performance of the classifiers, namely K Nearest Neighbor, Logistic Regression, Decision Trees,and Support Vector Machines. I utilized a dataset related to marketing bank products over the telephone. The dataset comes from the UCI Machine Learning repository https://archive.ics.uci.edu/ml/datasets/Bank%2BMarketing. It is one of the common and powerful dataset repository for machine learing. 
